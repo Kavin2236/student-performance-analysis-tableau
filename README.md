@@ -28,6 +28,3 @@ https://public.tableau.com/app/profile/kavin.raj.a.m/viz/student_perfromance_dat
 - `dashboard_screenshot_2.png` — visualization sample
 
 ---
-## 👀 Preview
-
-*(Add your screenshots here if you want them embedded)*

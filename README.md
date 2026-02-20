@@ -1,21 +1,33 @@
 # Student Performance Analysis using Tableau
 
-## 📌 Project Overview
-This project analyzes student academic performance based on study hours, attendance, parental education level, and assignment completion metrics.
+## 🧾 Project Overview
+This project explores factors affecting student performance using an interactive Tableau dashboard.  
+The analysis focuses on relationships between study hours, attendance, parental education, assignment completion, and final exam scores.
 
-## 📊 Dashboard Features
-- Distribution analysis of study hours, attendance, and final scores
-- Scatter plot modeling relationship between study hours and final exam performance
-- Trend line analysis to evaluate correlation strength
-- Category comparison based on parental education level
+## 📊 Tools Used
+- Tableau Public  
+- CSV dataset  
+- Data visualization & trend analysis
 
-## 📈 Key Insight
-Linear trend analysis shows a positive relationship between study hours and final score, indicating increased study time improves academic performance.
+## 📈 Dashboard Highlights
+- Distribution of study hours, attendance, and final scores
+- Scatter plot with trend line showing correlation between study hours and final scores
+- Color coded by parental education level for deeper insights
 
-## 🛠 Tools Used
-- Tableau
-- CSV Dataset
-- Data Visualization & Trend Modeling
+## 📋 Key Insights
+- Students with higher study hours tend to achieve higher final scores.
+- Trend modelling suggests a positive relationship between study time and performance.
 
-## 🔗 Tableau Public Dashboard
+## 🔗 Links
+**Tableau Public Dashboard:**  
 https://public.tableau.com/app/profile/kavin.raj.a.m/viz/student_perfromance_dataset_csv/Dashboard1?publish=yes
+
+## 📁 Files in This Repo
+- `student_performance_dataset.csv` — dataset used for visualization
+- `dashboard_screenshot_1.png` — visualization sample  
+- `dashboard_screenshot_2.png` — visualization sample
+
+---
+## 👀 Preview
+
+*(Add your screenshots here if you want them embedded)*
